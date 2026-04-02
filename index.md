@@ -94,7 +94,7 @@ Jul 2025 - Aug 2025
 - Redis
 - RAG
 
---
+---
 
 ## 6. Technical Skills
 
@@ -161,3 +161,9 @@ Jul 2025 - Aug 2025
 
 - **GitHub Repository:** [https://github.com/lim-jea](https://github.com/lim-jea)
 - **GitHub Pages Resume:** [https://lim-jea.github.io/Future-Resume/](https://lim-jea.github.io/Future-Resume/)
+
+---
+## 11. References
+
+- Professor 박규동, Open Source Software Practice  
+  Kwangwoon University
